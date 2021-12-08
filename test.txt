@@ -1,0 +1,7 @@
+3
+2.50e+11
+ 2.2790e+11  0.0000e+00  0.0000e+00  2.4100e+04  6.4190e+23     mars.gif
+-2.2790e+11  0.0000e+00  0.0000e+00  2.4100e+04  6.4190e+23     mars.gif
+ 0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  1.9890e+30      sun.gif
+
+This file contains the sun and 2 mars, one on the opposite side of the sun of the other.
